@@ -1,0 +1,19 @@
+.pic{
+    width: 300px;
+    border-radius: 25px;
+}
+h2{
+ 
+    color: rgb(25, 82, 78);
+    font-size: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+h4{
+    font-style: italic;
+    color: rgb(39, 14, 14);
+    font-size: 20px;
+}
+body{
+    text-align: center;
+    background-color: rgb(213, 218, 217);
+}
